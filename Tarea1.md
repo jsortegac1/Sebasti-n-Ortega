@@ -18,10 +18,10 @@ El mapa de valor metro cuadrado de terreno permite visualizar la superposición 
 
 Los métodos de clasificación seleccionados fueron los siguientes:
 
-## Categorizado
+**Categorizado**
 El método categorizado genera una representación diferente por cada registro en el atributo de V_REF, el cual hace referencia al valor metro cuadrado de terreno. Con éste método, si existen dos registros con el mismo valor, serán representados por el mismo color.
 
-## Graduado
+**Graduado**
 El método graduado genera intervalos de valor a partir del atributo seleccionado (el cual debe ser de tipo cuantitativo). Permite seleccionar el modo para establecer los intervalos con los cuales se van a representar el valor metro cuadrado de terreno, éste puede ser intervalo igual, cuantil, rupturas naturales, desviación estándar y/o pretty breaks. Igualmente, tiene como parámetro el número de clases, es decir, el número de intervalos para la representación de la variable. Con éste método, se representa con un color diferente cada intervalo. 
 
 *-Cuál es mejor para la variable seleccionada? Por qué?*
@@ -45,7 +45,7 @@ https://datosabiertos.bogota.gov.co/dataset/unidad-de-planeamiento-bogota-d-c
 3.	Creación de la cuenta en Qgis Cloud, usuario: jsortegac
 4.	Instalación del plugin QGisCloud.
 
-PANTALLAZO 1
+![PANTALLAZO1](C:\Users\TEMP\Documents\GitHub\Sebasti-n-Ortega\PANTALLAZOS)
 
 5.	Descarga de información del portal de datos abiertos de Bogotá en formato shp: valor de referencia metro cuadrado de Bogotá y unidad de planeamiento zonal
 
