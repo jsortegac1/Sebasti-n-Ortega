@@ -45,7 +45,7 @@ https://datosabiertos.bogota.gov.co/dataset/unidad-de-planeamiento-bogota-d-c
 3.	Creación de la cuenta en Qgis Cloud, usuario: jsortegac
 4.	Instalación del plugin QGisCloud.
 
-![img1](C:\Users\TEMP\Documents\GitHub\Sebasti-n-Ortega\PANTALLAZOS\PANTALLAZO1)
+![img1](C:\Users\TEMP\Documents\GitHub\Sebasti-n-Ortega\PANTALLAZOS\PANTALLAZO1.JPEG)
 
 5.	Descarga de información del portal de datos abiertos de Bogotá en formato shp: valor de referencia metro cuadrado de Bogotá y unidad de planeamiento zonal
 
@@ -59,8 +59,10 @@ PANTALLAZO 4
 
 MÉTODO DE CLASIFICACIÓN CATEGORIZADO
 PANTALLAZO 5
-	MÉTODO DE CLASIFICACIÓN GRADUADO 
-	PANTALLAZO 11
+
+MÉTODO DE CLASIFICACIÓN GRADUADO 
+PANTALLAZO 11
+
 8.	 Se obtienen las siguientes clasificaciones:
 
 ### Resultado Mapa 1
