@@ -1,4 +1,4 @@
-**TAREA 01 - CREACIÓN DE MAPAS TEMÁTICOS CON QGIS Y PUBLICACIÓN DE RESULTADOS EN QGIS CLOUD**
+##TAREA 01 - CREACIÓN DE MAPAS TEMÁTICOS CON QGIS Y PUBLICACIÓN DE RESULTADOS EN QGIS CLOUD**
 
 ## MAPA DE VALOR METRO CUADRADO DE TERRENO EN LA LOCALIDAD DE TEUSAQUILLO - BOGOTÁ D.C
 
@@ -40,12 +40,13 @@ https://datosabiertos.bogota.gov.co/dataset/unidad-de-planeamiento-bogota-d-c
 
 *Descripción del procedimiento utilizado*
 
-1.	Descarga del programa QGIS versión 3.4.13
-2.	Configuración del idioma para instalación de plugins
-3.	Creación de la cuenta en Qgis Cloud, usuario: jsortegac
+1.	Descarga del programa QGIS versión 3.4.13.
+2.	Configuración del idioma para instalación de plugins.
+3.	Creación de la cuenta en Qgis Cloud, usuario: jsortegac.
 4.	Instalación del plugin QGisCloud.
 
-![img1](PANTALLAZOS/PANTALLAZO1.JPG)
+PANTALLAZO 1
+![img1](imagen/PANTALLAZO1.JPG)
 
 5.	Descarga de información del portal de datos abiertos de Bogotá en formato shp: valor de referencia metro cuadrado de Bogotá y unidad de planeamiento zonal
 
@@ -56,13 +57,10 @@ PANTALLAZO 2 Y 3
 PANTALLAZO 4
 
 7.	En la herramienta de propiedades de la respectiva capa, pestaña simbología, se selecciona el método de clasificación y la configuración respectiva en cuanto a los parámetros: 
-
 MÉTODO DE CLASIFICACIÓN CATEGORIZADO
 PANTALLAZO 5
-
-MÉTODO DE CLASIFICACIÓN GRADUADO 
-PANTALLAZO 11
-
+	MÉTODO DE CLASIFICACIÓN GRADUADO 
+	PANTALLAZO 11
 8.	 Se obtienen las siguientes clasificaciones:
 
 ### Resultado Mapa 1
@@ -71,6 +69,29 @@ PANTALLAZO 6
 
 ### Resultado Mapa 2
 PANTALLAZO 12
+
+
+
+### Publicación de los Mapas en el servidor mediante QGisCloud
+
+8. Inicialmente, se ingresa el usuario y contraseña de la cuenta creada en el QGis Cloud en la ventana Cloud Settings
+PANTALLAZO 7
+
+
+9. Posteriormente, en la pestaña Upload Data se agregan las capas que van a subirse en el servidor
+PANTALLAZO 8
+
+
+10. Ahora bien, se guarda el proyecto en formato .qgz
+PANTALLAZO 9
+
+
+11. Finalmente, se selecciona la opción de cargar mapa
+PANTALLAZO 10
+
+12. Finalmente se visualizan los mapas creados:
+Pantallazo 13 y 14
+
 
 
 
