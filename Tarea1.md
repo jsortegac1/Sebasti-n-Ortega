@@ -50,47 +50,53 @@ PANTALLAZO 1
 
 5.	Descarga de información del portal de datos abiertos de Bogotá en formato shp: valor de referencia metro cuadrado de Bogotá y unidad de planeamiento zonal
 
-PANTALLAZO 2 Y 3
+![img1](imagen/PANTALLAZO2.JPG)
+![img1](imagen/PANTALLAZO3.JPG)
 
 6.	Se cargan los datos descargados SHP en QGIS
 
-PANTALLAZO 4
+![img1](imagen/PANTALLAZO4.JPG)
 
 7.	En la herramienta de propiedades de la respectiva capa, pestaña simbología, se selecciona el método de clasificación y la configuración respectiva en cuanto a los parámetros: 
+
 MÉTODO DE CLASIFICACIÓN CATEGORIZADO
-PANTALLAZO 5
-	MÉTODO DE CLASIFICACIÓN GRADUADO 
-	PANTALLAZO 11
-8.	 Se obtienen las siguientes clasificaciones:
+![img1](imagen/PANTALLAZO5.JPG)
 
-### Resultado Mapa 1
+MÉTODO DE CLASIFICACIÓN GRADUADO 
+![img1](imagen/PANTALLAZO11.JPG)
 
-PANTALLAZO 6
+8. Se obtienen las siguientes clasificaciones:
 
-### Resultado Mapa 2
-PANTALLAZO 12
+**Resultado Mapa Categorizado**
+
+![img1](imagen/PANTALLAZO6.JPG)
+
+**Resultado Mapa Graduado**
+![img1](imagen/PANTALLAZO12.JPG)
 
 
-
-### Publicación de los Mapas en el servidor mediante QGisCloud
+# Publicación de los Mapas en el servidor mediante QGisCloud
 
 8. Inicialmente, se ingresa el usuario y contraseña de la cuenta creada en el QGis Cloud en la ventana Cloud Settings
-PANTALLAZO 7
+
+![img1](imagen/PANTALLAZO7.JPG)
 
 
 9. Posteriormente, en la pestaña Upload Data se agregan las capas que van a subirse en el servidor
-PANTALLAZO 8
+
+![img1](imagen/PANTALLAZO8.JPG)
 
 
 10. Ahora bien, se guarda el proyecto en formato .qgz
-PANTALLAZO 9
+![img1](imagen/PANTALLAZO9.JPG)
 
 
 11. Finalmente, se selecciona la opción de cargar mapa
-PANTALLAZO 10
+![img1](imagen/PANTALLAZO10.JPG)
 
 12. Finalmente se visualizan los mapas creados:
-Pantallazo 13 y 14
+![img1](imagen/PANTALLAZO13.JPG)
+![img1](imagen/PANTALLAZO14.JPG)
 
 
 
