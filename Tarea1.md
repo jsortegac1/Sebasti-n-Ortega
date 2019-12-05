@@ -1,4 +1,4 @@
-### TAREA 01 - CREACIÓN DE MAPAS TEMÁTICOS CON QGIS Y PUBLICACIÓN DE RESULTADOS EN QGIS CLOUD
+##### TAREA 01 - CREACIÓN DE MAPAS TEMÁTICOS CON QGIS Y PUBLICACIÓN DE RESULTADOS EN QGIS CLOUD
 
 ## MAPA DE VALOR METRO CUADRADO DE TERRENO EN LA LOCALIDAD DE TEUSAQUILLO - BOGOTÁ D.C
 
@@ -99,22 +99,25 @@ MÉTODO DE CLASIFICACIÓN GRADUADO
 ![img1](imagen/PANTALLAZO14.JPG)
 
 
-
+Éste proceso se repite para la publicación del otro mapa.
 
 *Ventajas/desventajas/dificultades/diferencias*
 
 -QGIS es un software libre que permite ejecutar diversas funciones de análisis espacial y de publicación de mapas en la web.
+
 -Se generaron diversos problemas en la ejecución de los procesos, razón por la cual fue necesario repetir diferentes procesos.
 
 *URL de mapas en la web*
 
 # Mapa 1, Método de clasificación Categorizado
 https://qgiscloud.com/jsortegac/Tarea_1_Galerias/?bl=&st=&l=OpenStreetMap%2CGalerias_proj%2CGalerias_valor&t=Tarea_1_Galerias&e=998795%2C1004298%2C1002409%2C1006031
+
 WMS: 
 https://wms.qgiscloud.com/jsortegac/Tarea_1_Galerias/
 
 # Mapa 1, Método de clasificación Graduado
 https://qgiscloud.com/jsortegac/Tarea_b_Galerias/?bl=&st=&l=OpenStreetMap%2CGalerias_proj%2CGalerias_valor&t=Tarea_b_Galerias&e=999055%2C1004335%2C1002669%2C1006068
+
 WMS: 
 https://wms.qgiscloud.com/jsortegac/Tarea_b_Galerias/
 
