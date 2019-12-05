@@ -45,7 +45,7 @@ https://datosabiertos.bogota.gov.co/dataset/unidad-de-planeamiento-bogota-d-c
 3.	Creación de la cuenta en Qgis Cloud, usuario: jsortegac
 4.	Instalación del plugin QGisCloud.
 
-![PANTALLAZO1](C:\Users\TEMP\Documents\GitHub\Sebasti-n-Ortega\PANTALLAZOS)
+![img1](C:\Users\TEMP\Documents\GitHub\Sebasti-n-Ortega\PANTALLAZOS\PANTALLAZO1)
 
 5.	Descarga de información del portal de datos abiertos de Bogotá en formato shp: valor de referencia metro cuadrado de Bogotá y unidad de planeamiento zonal
 
