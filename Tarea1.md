@@ -8,7 +8,7 @@ Conocer el valor metro cuadrado de terreno de las diferentes manzanas catastrale
 
 *Por qué un mapa ayuda a resolverlo?*
 
-Porque el mapa da la posibilidad de visualizar todas las manzanas catastrales que abarcan la Unidad de Planeamiento Zonal de Galerías con su respectivo valor metro cuadrado de terreno.  
+Porque el mapa da la posibilidad de visualizar todas las manzanas catastrales que abarcan la Unidad de Planeamiento Zonal de Galerías con su respectivo valor metro cuadrado de terreno,  
 
 *Descripción del mapa temático*
 
