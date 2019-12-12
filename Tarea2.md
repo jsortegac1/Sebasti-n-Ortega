@@ -13,8 +13,8 @@ Descripción: La capa de departamentos muestra la división político-administra
 Características especiales: La capa de departamentos presenta 11 atributos, de los cuales 8 cuentan con información.  
 Atributos: id, geom, id_0, iso, name_0, id_1, name_1, type_1, engtype_1, nl_name_1, varname_1. 
 
-![img1](IMAGENES/1.jpg)
 URL: https://sites.google.com/site/seriescol/shapes
+
 Municipios
 Origen: Mapas en formato shp de ESRI.
 Descripción: La capa de departamentos muestra la división político-administrativa del territorio colombiano, distribuida en sus 1065 municipios. 
@@ -22,6 +22,7 @@ Características especiales: La capa de departamentos presenta 13 atributos, de 
 Atributos: id, geom, id_0, iso, name_0, id_1, name_1, id_2, name_2, type_2, engtype_2, nl_name_2, varname_2
 ![img1](IMAGENES/2.jpg)
 URL: https://sites.google.com/site/seriescol/shapes
+
 Fallas geológicas
 Origen: SIG-OT (Sistema de Información Geográfica para el Ordenamiento Territorial).
 Descripción: La capa de fallas geológicas muestra los registros de las fallas que se presentan a nivel nacional, mostrando un total de 6427 registros.
