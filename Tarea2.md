@@ -85,7 +85,8 @@ Deptos: sld_depto
 	Deptos_falla: deptos_falla (ccs)
 
 ## Url de la previsualización del grupo de capas en Geoserver
-http://34.83.176.208:18080/geoserver/clase/wms?service=WMS&version=1.1.0&request=GetMap&layers=clase%3AU4_Fallas%20Geologicas%20de%20Colombia&bbox=-81.8415298461914%2C-4.22842884063721%2C-66.71251817716609%2C15.9124755859375&width=576&height=768&srs=EPSG%3A4326&format=application/openlayers
+http://34.83.176.208:18080/geoserver/clase/wms?service=WMS&version=1.1.0&request=GetMap&layers=clase%3AFallas%20Geologicas%20de%20Colombia&bbox=-81.8415298461914%2C-4.22842884063721%2C-66.71251817716609%2C15.9124755859375&width=576&height=768&srs=EPSG%3A4326&format=application/openlayers
+
 ##Pantallazos con la forma en que los usuarios pueden consultar su geoservicio a través de QGIS
 Conexión nueva:
 ![img1](IMAGENES/26.jpg)
